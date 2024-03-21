@@ -6,6 +6,7 @@ This repository contains Python notebooks on DataCamp courses including:
 | Feature Engineering for Machine Learning in Python  | Create new features to improve the performance of your Machine Learning models |
 | Supervised Learning with scikit-learn  | Learn how to build predictive models, tune their parameters, and determine how well they will perform with unseen data |
 | Introduction to TensorFlow in Python  | Learn the fundamentals of neural networks and how to build deep learning models with TensorFlow |
+| Introduction to Statistics in Python  | Learn about the summary statistics, different probability distributions, CLT, correlation |
 
 And DataCamp projects including:
 | Name  | Description |
