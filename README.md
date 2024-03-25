@@ -12,4 +12,5 @@ And DataCamp projects including:
 | Name  | Description |
 | ------------- | ------------- |
 | Classify Song Genres from Audio Data  | Apply machine learning methods in Python to classify songs into genres  |
+| Predicting Temperature in London | Perform a machine learning experiment to find the best model that predicts the temperature in London! |
 | Topic Analysis of Clothing Reviews with Embeddings  | Analyze clothing reviews on an e-commerce platform to explore different topics and similarities among them.  |
