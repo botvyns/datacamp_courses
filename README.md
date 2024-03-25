@@ -12,3 +12,4 @@ And DataCamp projects including:
 | Name  | Description |
 | ------------- | ------------- |
 | Classify Song Genres from Audio Data  | Apply machine learning methods in Python to classify songs into genres  |
+| Topic Analysis of Clothing Reviews with Embeddings  | Analyze clothing reviews on an e-commerce platform to explore different topics and similarities among them.  |
